@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sanjay Jatav</h1>
-<h3 align="center">Aspiring SDET | Automation & Manual Testing | Java | Selenium | TestNG | Cucumber | JavaScript | Cypress | SQL </h3>
+<h3 align="center">QA Intern | Automation & Manual Testing | Java | Selenium | TestNG | Cucumber | JavaScript | Cypress | SQL </h3>
 
 ---
 
